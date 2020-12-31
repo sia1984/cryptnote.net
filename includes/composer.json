@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ircmaxell/random-lib": "^1.2",
+        "defuse/php-encryption": "^2.2",
+        "banujan6/csrf-handler": "^2.0"
+    }
+}
